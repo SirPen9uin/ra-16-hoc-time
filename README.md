@@ -2,7 +2,7 @@
 
 ![Build status](https://ci.appveyor.com/api/projects/status/q7hbtfulq6ukwuc6?svg=true)
 
-[Результат (Сайт)]()
+[Результат (Сайт)](https://sirpen9uin.github.io/ra-16-hoc-time/)
 
 ## Описание
 
@@ -17,7 +17,3 @@
 ## Сборка
 
 ```npm run build```
-
-## Дополнительная информация
-
-- [React + Vite](React+Vite)
